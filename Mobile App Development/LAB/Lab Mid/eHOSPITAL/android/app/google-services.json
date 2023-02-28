@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "716863309627",
+    "project_id": "ehospital-546ea",
+    "storage_bucket": "ehospital-546ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716863309627:android:ec548789ac2e76c7e5991e",
+        "android_client_info": {
+          "package_name": "com.ehospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716863309627-ourljvhut8hk7l625jm72ucdhc69saln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ehospital",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "716863309627-h6tg3rh9banc016e6v4bq0sussu0koce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeNp-AYvJL1fRirx3QnuX1WELNY3OTdFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716863309627-h6tg3rh9banc016e6v4bq0sussu0koce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
